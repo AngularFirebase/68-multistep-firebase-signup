@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# # Episode XY
+## Episode 68
 
-Watch the [screencast]()
+Watch the [multi-step signup screencast](https://angularfirebase.com/lessons/multi-step-signup-firebase-email-password-auth-angular-reactive-forms/)
 
 ## Usage
 
